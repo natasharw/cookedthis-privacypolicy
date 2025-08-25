@@ -1,6 +1,6 @@
 # Privacy Policy for Cooked This
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 25th August 2025
 
 Cooked This (“the App,” “we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how information is collected, used, and shared when you use our iOS application.
 
